@@ -1,0 +1,8 @@
+# SpotiSplit MVP - Залежності
+# Встановлення: pip install -r requirements.txt
+
+spotipy==2.23.0      # Spotify Web API wrapper
+scikit-learn==1.5.1  # Machine learning (KMeans, PCA)
+pandas==2.2.2        # Data manipulation
+numpy==1.26.4        # Numerical computing
+matplotlib==3.9.0    # Plotting and visualization
